@@ -1,0 +1,13 @@
+langchain_community 
+langchain_huggingface
+fastapi 
+pydantic 
+uvicorn 
+langgraph 
+transformers 
+torch 
+sentence-transformers 
+pytest 
+bitsandbytes 
+numpy
+

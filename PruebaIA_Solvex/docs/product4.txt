@@ -1,0 +1,11 @@
+ID: P004
+Nombre: PC para oficina económica
+Precio: 420 USD
+CPU: Intel Core i5-12400F
+GPU: Gráficos integrados Intel UHD 730
+RAM: 16 GB DDR4
+Almacenamiento: SSD 512GB
+Sistema operativo: Windows 11 Home
+Motherboard: ASUS PRIME B660M-A D4
+Case: Mini torre Nox Infinity Delta
+Power Supply: EVGA 500W 80 Plus Bronze

@@ -1,0 +1,10 @@
+ID: P002
+Nombre: PC Gamer de gama alta
+Precio: 2,499 USD
+CPU: AMD Ryzen 7 7800X3D
+GPU: NVIDIA GeForce RTX 4070 12 GB DDR6X
+RAM: 32 GB DDR5
+Almacenamiento: SSD 1TB + HDD 2TB
+Sistema operativo: Windows 11
+Motherboard: ASUS ROG Strix B650-F Gaming WiFi
+Case: NZXT H7 Flow

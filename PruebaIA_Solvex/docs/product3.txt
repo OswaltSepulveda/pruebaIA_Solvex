@@ -1,0 +1,10 @@
+ID: P003
+Nombre: PC para edición de video pro
+Precio: 3,700 USD
+CPU: Intel Core i9-14900K
+GPU: NVIDIA GeForce RTX 4080 16 GB DDR6X
+RAM: 64 GB DDR5
+Almacenamiento: SSD 2TB + HDD 4TB
+Sistema operativo: Windows 11 Pro
+Motherboard: MSI Z790 Creator WiFi
+Case: Fractal Design Define 7 XL

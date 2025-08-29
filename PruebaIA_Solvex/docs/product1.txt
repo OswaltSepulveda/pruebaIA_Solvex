@@ -1,0 +1,9 @@
+ID: P001
+Nombre: Dell XPS 15
+Precio: 1,499 USD
+CPU: Intel Core i7-13700H
+GPU: Intel Arc
+RAM: 32 GB DDR5
+Almacenamiento: SSD 1TB
+Pantalla: 15.6" OLED 3.5k táctil
+Sistema operativo: Windows 11

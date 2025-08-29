@@ -1,0 +1,11 @@
+ID: P005
+Nombre: PC para IA y simulaciones
+Precio: 15,200 USD
+CPU: AMD Threadripper PRO 7995WX
+GPU: NVIDIA RTX 6000 Ada Generation 48GB GDDR6
+RAM: 256 GB DDR5
+Almacenamiento: SSD 4TB + RAID HDD 8TB
+Sistema operativo: Linux Ubuntu 22.04 LTS
+Motherboard: ASUS PRIME B660M-A D4
+Case: Workstation rackeable
+Power Supply: 1600W Platinum
